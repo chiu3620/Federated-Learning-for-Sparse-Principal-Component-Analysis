@@ -1,0 +1,2 @@
+# Do not upload CSV dataset files
+*.csv
